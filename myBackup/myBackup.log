@@ -1,0 +1,7 @@
+C:\myPro\myBackup\myBackup.log file exists. So logs are appended to .bak file. 
+D:\zz.Backup file exists. 
+"======================================================================================================" 
+If you want to see logs at realtime, use "Get-Content C:\myPro\myBackup\myBackup.log -Wait" in powershell mode 
+2022-03-14 (¿ù)_ 8:49:11.73  Begining myBackup.bat 
+2022-03-14 (¿ù)_ 8:49:11.99  Ended myBackup.bat 
+"======================================================================================================" 
